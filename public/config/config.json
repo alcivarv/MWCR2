@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8d09507BB1A1d963F2b3E3390072709eBFD34f80",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8d09507bb1a1d963f2b3e3390072709ebfd34f80",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Meta World Cup R2",
+  "SYMBOL": "MWCR2",
+  "MAX_SUPPLY": 5520,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.095,
+  "GAS_LIMIT": 475000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/meta-world-cup-r2",
+  "SHOW_BACKGROUND": true
+}
