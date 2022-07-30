@@ -374,6 +374,7 @@ function App() {
             <StyledImg
               alt={"example"}
               src={"/config/images/example.gif"}
+              style={{ transform: "scaleX(-1)" }}
              />
           </s.Container>
         </ResponsiveWrapper>
